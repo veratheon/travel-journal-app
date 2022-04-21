@@ -1,2 +1,3 @@
-This is dinamic Airbnb App. Data in App apdate when you change ./src/components/data.js file.
-Looks like this: ![image](https://user-images.githubusercontent.com/86124664/161517119-c36b62e4-52a6-43e2-bf1d-1d5b0ec57289.png)
+This is dinamic Travel journal App. Data in App apdate when you change data.js file.
+Looks like this: 
+<img width="772" alt="Screen Shot 2022-04-21 at 22 04 44" src="https://user-images.githubusercontent.com/86124664/164536867-f1f8ae1f-f178-469d-acd9-b21c5d257d75.png">
